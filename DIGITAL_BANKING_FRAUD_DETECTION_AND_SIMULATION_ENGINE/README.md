@@ -575,10 +575,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 **Author**
 
-**Sree Raksha S P**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sreeraksha0123/)
-- 🐙 [GitHub](https://github.com/sreeraksha0123)
-- 🧑‍💻 [LeetCode](https://leetcode.com/u/sreeraksha0123/)
+**Trinesh Konkala**
+- 🔗 [LinkedIn](www.linkedin.com/in/trinesh-kumar-reddy-konkala-a8b385313)
+- 🐙 [GitHub](https://github.com/Trineshkonkala)
+  
 
 ---
 
